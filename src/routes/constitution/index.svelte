@@ -19,7 +19,8 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p class="title" style="text-align: center;">LEAGUE OVERVIEW &nbsp;</p>
-<p>The purpose of these bylaws is to (1) ensure a fair and fun league for all owners, (2) &nbsp;promote the long-term viability of the league. If a rule is not explicitly stated, &nbsp;interpretations will consider these criteria and new rules will be voted on and &nbsp;subsequently documented in these bylaws. If this document disagrees with league &nbsp;site settings, site settings will prevail until corrected. &nbsp;</p>
+
+<p> style="text-align: center;The purpose of these bylaws is to (1) ensure a fair and fun league for all owners, (2) &nbsp;promote the long-term viability of the league. If a rule is not explicitly stated, &nbsp;interpretations will consider these criteria and new rules will be voted on and &nbsp;subsequently documented in these bylaws. If this document disagrees with league &nbsp;site settings, site settings will prevail until corrected. &nbsp;</p>
 <p>• 12 teams in 2 divisions playing a 13 game schedule with 3 weeks of playoffs.</p>
 <p>&nbsp;• 25 roster spots (9 playable, 18 bench</p>
 <p>• 3 Taxi&nbsp;(Practice Squad) Roster Slots &nbsp;</p>
