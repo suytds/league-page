@@ -1,5 +1,6 @@
 <html>
 <body>
+  <center>
 
 <p style="text-align: center;">Show Us Your </p>
 <p style="text-align: center;">TD’s Constitution </p>
@@ -639,6 +640,6 @@
 <p>&nbsp;</p>
 <p>During this time an additional IR slot can be utilized for players with COID-19 designation.</p>
 <p>&nbsp;</p>
-
+  </center>
 </body>
 </html>
