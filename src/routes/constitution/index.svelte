@@ -4,7 +4,7 @@
 
 <p style="text-align: center;">Show Us Your </p>
 <p style="text-align: center;">TD’s Constitution </p>
-<p style="text-align: center;"><img src="/static/badge.png" alt="SUYTDS ICON" style="width: 394.99px; height: 394.99px; margin-left: 0.00px; margin-top: -4.40px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></p>
+<p style="text-align: center;"><img src="https://github.com/suytds/league-page/blob/d66b434648a734ec938b0e84792210738ca2e25e/static/Badge.png" alt="SUYTDS ICON" style="width: 394.99px; height: 394.99px; margin-left: 0.00px; margin-top: -4.40px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></p>
 <p style="text-align: center;">Rev. 2021-2022</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
